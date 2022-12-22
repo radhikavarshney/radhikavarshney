@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radhika Varshney</h1>
-<h3 align="center">I'm a passionate android developer from INDIA</h3>
+<h3 align="center">I'm a passionate Backend developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikavarshney&label=Profile%20views&color=0e75b6&style=flat" alt="radhikavarshney" /> </p>
 
