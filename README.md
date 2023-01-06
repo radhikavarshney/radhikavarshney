@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikavarshney&label=Profile%20views&color=0e75b6&style=flat" alt="radhikavarshney" /> </p>
 
-- 🔭 I’m currently working on **data structures **
+- 🔭 I’m currently working on *data structures *
 
 - 🌱 I’m currently learning **backend development**
 
