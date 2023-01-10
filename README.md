@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **data structures**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning *backend development*
 
 - 💬 Ask me about **c++,node js, express js, android development**
 
