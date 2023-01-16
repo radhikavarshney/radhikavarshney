@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rvarshney2001@akgec.ac.in**
 
-- ⚡ Fun fact **I love penning down shayaris.*
+- ⚡ Fun fact **I love penning down shayaris.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
