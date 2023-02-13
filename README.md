@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 💬 Ask me about c++,node js, express js, android development**
+- 💬 Ask me about **c++,node js, express js, android development**
 
-- 📫 How to reach me **rvarshney2001@akgec.ac.in
+- 📫 How to reach me **rvarshney2001@akgec.ac.in**
 
 - ⚡ Fun fact **I love penning down shayaris.**
 
